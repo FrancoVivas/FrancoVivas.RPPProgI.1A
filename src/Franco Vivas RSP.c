@@ -8,6 +8,16 @@
  ============================================================================
  */
 
+//Segundo Parcial
+/*
+1.Dada la estructura eVehiculo crear una función constructora
+  base y una parametrizada
+ 2. Dada la estructura del punto anterior declarar una variable
+ con valores y guardarla en un archivo de texto.
+ 3. Dada la estructura del punto anterior declarar una variable
+  con valores y guardarla en un archivo binario
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
